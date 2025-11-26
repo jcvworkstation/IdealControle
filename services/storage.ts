@@ -97,7 +97,7 @@ const seedData = () => {
       name: 'Admin', 
       companyId: 'comp_1', 
       role: UserRole.ADMIN, 
-      password: 'C0ntrol' 
+      password: '203050' 
     };
     
     // Generate User objects for each employee name
